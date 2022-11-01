@@ -1,4 +1,3 @@
-
 <h3 align="center">🐼 Hi there 👋</h3>
 
 <p align="center">
@@ -22,10 +21,9 @@ You can contact me at: <br/>
 <a href="https://itsshompi.github.io/">https://itsshompi.github.io</a>
 </p>
 
+<h4 align="center">🛠 Languages and Tools :</h4>
 
-
-### 🛠&nbsp;Languages and Tools :
-<p>
+<p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="32" height="32"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="32" height="32"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="32" height="32"/>&nbsp;
