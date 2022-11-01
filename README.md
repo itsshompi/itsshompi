@@ -1,10 +1,30 @@
-### Felipe Schneeberger 
-#### Computer Science Engineer
 
+<h3 align="center">🐼 Hi there 👋</h3>
+
+<p align="center">
+I'm Felipe Schneeberger and I am a creative person from Temuco, Chile.
+</p>
+
+<h4 align="center">
+  💻 Full Stack Developer & Machine Learning Developer 👾
+</h4>
+
+<p  align="center">
 In my free time I dedicate myself to learning new methods of machine learning.
+</p>
+
+<p  align="center">
+You can contact me at: <br/>
+<b>fs@unnamed.ai</b>
+</p>
+  
+<p  align="center">
+<a href="https://itsshompi.github.io/">https://itsshompi.github.io</a>
+</p>
 
 
-### 🛠 &nbsp;Languages and Tools :
+
+### 🛠&nbsp;Languages and Tools :
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="32" height="32"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="32" height="32"/>&nbsp;
